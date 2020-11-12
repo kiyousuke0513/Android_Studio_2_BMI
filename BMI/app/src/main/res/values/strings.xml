@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="Height_Hint">身高(cm)</string>
+    <string name="Weight_Hint">體重(kg)</string>
+    <string name="Calc_BTN_Text">計算</string>
+    <string name="Ans_Text_Text">您的BMI為 :</string>
+</resources>
